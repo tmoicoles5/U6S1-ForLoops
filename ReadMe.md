@@ -1,4 +1,4 @@
-# U5S1 - For Loops
+# U6S1 - For Loops
 
 * Part A - Foundations 6.1
 * Part B - Foundations Practice
