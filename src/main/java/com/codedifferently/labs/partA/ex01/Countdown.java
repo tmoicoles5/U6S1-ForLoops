@@ -10,13 +10,20 @@ public class Countdown {
     }
 
     public static String countUpLoop() {
+        String reponse = "";
+        for (int i =0; i<=5; i++){
+            reponse += i+ " ";
+        }
 
-        return null;
+        return reponse;
     }
 
     public static String evenNumbers(){
-
-        return null;
+        String response ="";
+        for (int i = 0; i <=20; i+= 2){
+            response += i + " ";
+        }
+        return response;
     }
     public static void main(String[] args) {
 

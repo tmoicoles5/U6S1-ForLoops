@@ -4,9 +4,9 @@ public class CountByTens {
     public static String countingByTens() {
         String response = "";
 
-        /**
-         * Your code goes here
-         */
+        for (int i =10; i<= 100; i+=10){
+            response += i+ " ";
+        }
         return response;
     }
 
